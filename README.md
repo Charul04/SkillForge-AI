@@ -280,19 +280,5 @@ Default: `skillforge.db` in the same directory as `app.py`. Change `DB_PATH` at 
 | 🏆 Leaderboard | Community ranking by XP |
 | 📄 Export | Download professional PDF career report |
 
----
-
-## 👩‍💻 Author
-
-**Charul Sahu**
-Hackathon 2025 — SkillForge AI
-
----
-
-## 📄 License
-
-This project was built for hackathon purposes. All quiz content, roadmap data, and YouTube resource links are curated manually for educational use.
-
----
 
 *"From lost to launched — that's SkillForge AI."* ⚡
